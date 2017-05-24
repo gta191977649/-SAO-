@@ -1,0 +1,72 @@
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\SAP WPF.exe.config
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\Bass.Net.xml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MainWindow.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MSG_BOX.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_EXIT.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_List.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_STYLE.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_Widget.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAOSlider.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\VOL_BG.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MainWindow.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MSG_BOX.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_EXIT.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_List.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_Widget.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\VOL_BG.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\App.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF_MarkupCompile.cache
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.g.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Changelog.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Properties.Resources.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.SAO_SETFORMS.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.csproj.GenerateResource.Cache
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\Resources\lang.en.resx
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.csprojResolveAssemblyReference.cache
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\DestopLyrics.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\DestopLyrics.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.lyric_search.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Resources.lang.en.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Language.ZH_CN.resources
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\Resources\lang.en.resx
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\SAP WPF.exe.config
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\SAP WPF.exe
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\SAP WPF.pdb
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\en\SAP WPF.resources.dll
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Debug\Bass.Net.xml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.csprojResolveAssemblyReference.cache
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\DestopLyrics.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MainWindow.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MSG_BOX.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_EXIT.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_List.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_STYLE.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_Widget.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAOSlider.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\VOL_BG.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\DestopLyrics.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MainWindow.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\MSG_BOX.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_EXIT.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_List.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAO_Widget.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\VOL_BG.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\App.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF_MarkupCompile.cache
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.g.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Changelog.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Language.ZH_CN.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.lyric_search.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Properties.Resources.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.SAO_SETFORMS.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP_WPF.Resources.lang.en.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.csproj.GenerateResource.Cache
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\en\SAP WPF.resources.dll
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.exe
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Debug\SAP WPF.pdb

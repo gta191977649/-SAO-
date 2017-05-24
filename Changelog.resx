@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>更新日志的音乐播放器SAO 
+------### Ver.0.2.4###------{2015年8月15日周六} 
+1.添加了桌面歌词功能。
+2.重新布局了设置界面。
+3.添加在线更新功能。
+------### Ver.0.2.3###------{2015年8月9日周天} 
+1.修复了音量重置问题。
+------### Ver.0.2.2###------{2015年6月6日周六} 
+1. 修正播放到最后前2秒时，自动跳掉歌曲。
+------### Ver.0.2.1###------{2014年10月10日周五} 
+1，设定音量将不会修改系统音量（感谢吧友的建议） 
+2简体中文化本软件 
+3，主界面的法改会的功能修改成开启/关闭在线歌词检测的快捷键。
+------### Ver.0.2###------{14/6/2014 SAT} 
+1，修改了列表播放文件检索时候的BUG 
+2，添加了窗口是否总是最前的功能。 
+3，修复了一些用户程序强制关闭问题 
+4，改用net4.0平台，现在支持XP！ 
+5，解决了占多个任务栏问题。 
+------### Ver.0.1更新1###------{2014年10月6日星期二} 
+1，修改动画效果。 
+2，添加了菜单点击音效。 
+3，修复了关闭设置窗口后主窗口是禁止的BUG。 
+------### Ver.0.1稳定###------{2014年9月6日周一} 
+1，添加了缩小到托盘的支持 
+2，优化了列表显示，只显示文件名 
+3，添加了列表歌名搜索功能 
+4，修正了列表播放指数的一些小的BUG。 
+5，自定义了的文本菜单为SAO风格。 
+6，修复了主窗口关闭后进程还残留的BUG。 
+------### RC版本6###------{24/05/2014 SAT} 
+现在大部份的BUG和崩溃问题已经修复 
+1，添加了音乐淡入淡出效果。 
+2，优化了文字滚动效果。 
+3，修复了暂停歌曲后歌词会消失的BUG。 
+4，继续优化了窗口动画效果。 
+5，打开无效的列表文件导致崩溃的BUG。 
+6，单曲播放支持洗脑循环了！ 
+7[播放列表]：添加了搜索档案夹功能 
+8[播放列表]：添加了拖拽文件功能。 
+9[播放列表]：添加了保存列表文件功能。 
+------### RC版本5###------{16/05/2014友谊赛} 
+1，增强了媒体文件信息的获取能力 
+2，增加了LRC歌词自动匹配功能 
+3，添加了歌词样式设置。 
+4，添加了线上歌词匹配（测试阶段） 
+5，优化了提示窗口字体特效 
+6，加入了设置保存功能，下次打开时候会自动加载用户的设置。 
+7，新增OGG音乐格式支持。 
+8，新增了些播放显示效果。 
+------### RC版本4###------{2014年2月5日周五} 
+列表播放读取到无效文件格式时会自动跳到下一个，不会弹出错误窗口。 
+添加了LRC歌词支持。 
+细节修复： 
+修正了歌曲超过10分钟显示错误的BUG。 
+修正了迷你模式音量获取为-100的BUG。 
+------### RC版本3###------{27/04/2014孙} 
+添加了列表播放模式顺序选择，你可以循环播放，随机，等... 
+修復了當播放列表未選中時，按下播放下一首·或上一首直接造成強制關閉。 
+修复了HP血条模式下歌曲名称不自动滚动的BUG。 
+------### RC版本2###------{24/04/2014直通} 
+修复BUG在列表播放时候，读取非音频文件导致崩溃 
+设置选择会自动记住修改后的数值 
+添加修改的MIDI音色库选项在设置菜单 
+迷你模式的用户界面字幕加上阴影（方便在白色背景下看清） 
+迷你模式可以自由开，关。 
+修正了，音量，播放列表出现的位置。 
+------### RC版本1###------{23/04/2014周三} 
+修复了BUG - &gt;播放列表播放时，遇到损坏的文件程序会崩溃的BUG
+添加了一些动作。 
+优化了一些用户界面布局以及样式 
+------###建立4###------{2014年9月4日周三} 
+添加了列表播放（支持WPL列表） 
+修改Wedget.Button为悬浮窗口 
+修改了默认的MIDI音色库文件 
+------###建立3###------{16/03/2014孙} 
+重新设计了主窗口的UI 
+添加了迷你窗口模式（窗口小部件） 
+添加了SAO风格的错误提示框 
+添加了DSP音效插件支持 
+添加了常见无损格式支持 
+{WMA，APE，FLAC，AAC，TTA等} 
+修正了的FileDialog里过滤器 
+修正了子菜单无法加载内嵌字体的BUG 
+修正了设计菜单可以无限打开的BUG 
+------###建立2###------{2014年12月3日周三} 
+修复了播放完音乐后崩溃问题 
+字体改用为内嵌字体，用户无需安装字体即可使用 
+添加了歌曲时间显示 
+简化了部份算法 
+修正了设置界面，现在即可正常使用了！ 
+
+------###建立1###------{2014年9月3日星期六} 
+自定义界面 
+添加bass.dll插件 
+支持显示频谱 
+支持显示波形 
+支持文件拖拽播放</value>
+  </data>
+</root>

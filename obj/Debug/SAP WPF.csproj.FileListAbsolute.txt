@@ -1,0 +1,101 @@
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\MainWindow.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\MainWindow.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\App.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.Properties.Resources.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP WPF.csproj.GenerateResource.Cache
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\Bass.Net.dll
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\Bass.Net.xml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAO_EXIT.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAO_EXIT.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.SAO_SETFORMS.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAO_Widget.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAO_Widget.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.Changelog.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAO_Style.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\MSG_BOX.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\MSG_BOX.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\VOL_BG.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\VOL_BG.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAOSlider.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAO_List.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAO_List.g.cs
+C:\SAP WPF\SAP WPF\bin\Debug\SAP WPF.exe.config
+C:\SAP WPF\SAP WPF\obj\Debug\SAP WPF.exe
+C:\SAP WPF\SAP WPF\obj\Debug\SAP WPF.pdb
+C:\SAP WPF\SAP WPF\bin\Debug\SAP WPF.exe
+C:\SAP WPF\SAP WPF\bin\Debug\SAP WPF.pdb
+C:\SAP WPF\SAP WPF\bin\Debug\Bass.Net.xml
+C:\SAP WPF\SAP WPF\obj\Debug\SAP WPF.csprojResolveAssemblyReference.cache
+C:\SAP WPF\SAP WPF\obj\Debug\MainWindow.baml
+C:\SAP WPF\SAP WPF\obj\Debug\MSG_BOX.baml
+C:\SAP WPF\SAP WPF\obj\Debug\SAO_EXIT.baml
+C:\SAP WPF\SAP WPF\obj\Debug\SAO_List.baml
+C:\SAP WPF\SAP WPF\obj\Debug\SAO_STYLE.baml
+C:\SAP WPF\SAP WPF\obj\Debug\SAO_Widget.baml
+C:\SAP WPF\SAP WPF\obj\Debug\SAOSlider.baml
+C:\SAP WPF\SAP WPF\obj\Debug\VOL_BG.baml
+C:\SAP WPF\SAP WPF\obj\Debug\MainWindow.g.cs
+C:\SAP WPF\SAP WPF\obj\Debug\MSG_BOX.g.cs
+C:\SAP WPF\SAP WPF\obj\Debug\SAO_EXIT.g.cs
+C:\SAP WPF\SAP WPF\obj\Debug\SAO_List.g.cs
+C:\SAP WPF\SAP WPF\obj\Debug\SAO_Widget.g.cs
+C:\SAP WPF\SAP WPF\obj\Debug\VOL_BG.g.cs
+C:\SAP WPF\SAP WPF\obj\Debug\App.g.cs
+C:\SAP WPF\SAP WPF\obj\Debug\SAP WPF_MarkupCompile.cache
+C:\SAP WPF\SAP WPF\obj\Debug\SAP WPF.g.resources
+C:\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.Changelog.resources
+C:\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.Properties.Resources.resources
+C:\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.SAO_SETFORMS.resources
+C:\SAP WPF\SAP WPF\obj\Debug\SAP WPF.csproj.GenerateResource.Cache
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\ActiproSoftware.Shared.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\ActiproSoftware.SyntaxEditor.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.lyric_search.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP WPF.csprojResolveAssemblyReference.cache
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP_WPF.Resources.lang.en.resources
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\Resources\lang.en.resx
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\SAP WPF.exe.config
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\bin\Debug\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP WPF_MarkupCompile.cache
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP WPF.g.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\obj\Debug\SAP WPF.pdb
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\SAP WPF.exe.config
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP WPF.exe
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP WPF.pdb
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\Resources\lang.en.resx
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\SAP WPF.exe
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\SAP WPF.pdb
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\en\SAP WPF.resources.dll
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\ActiproSoftware.SyntaxEditor.Net20.dll
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\bin\Debug\Bass.Net.xml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP WPF.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\MSG_BOX.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAO_EXIT.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAO_List.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAO_STYLE.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAO_Widget.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAOSlider.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\VOL_BG.baml
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\MSG_BOX.g.cs
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAO_EXIT.g.cs
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAO_List.g.cs
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAO_Widget.g.cs
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\VOL_BG.g.cs
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP WPF_MarkupCompile.cache
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP WPF.g.resources
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP_WPF.Changelog.resources
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP_WPF.lyric_search.resources
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP_WPF.Properties.Resources.resources
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP_WPF.SAO_SETFORMS.resources
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP_WPF.Resources.lang.en.resources
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\SAP WPF.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\源码 - 10-06-2014\SAP WPF\obj\Debug\en\SAP WPF.resources.dll

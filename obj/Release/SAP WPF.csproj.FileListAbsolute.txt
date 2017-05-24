@@ -1,0 +1,33 @@
+D:\My Program\SAP WPF\SAP WPF\bin\Release\Bass.Net.dll
+D:\My Program\SAP WPF\SAP WPF\bin\Release\Bass.Net.xml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP WPF.csprojResolveAssemblyReference.cache
+D:\My Program\SAP WPF\SAP WPF\obj\Release\MainWindow.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAO_EXIT.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAO_Widget.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\MainWindow.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAO_EXIT.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAO_Widget.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Release\App.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP_WPF.Changelog.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP_WPF.Properties.Resources.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP_WPF.SAO_SETFORMS.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP WPF.csproj.GenerateResource.Cache
+D:\My Program\SAP WPF\SAP WPF\obj\Release\MSG_BOX.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAO_List.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAO_STYLE.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAOSlider.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\VOL_BG.baml
+D:\My Program\SAP WPF\SAP WPF\obj\Release\MSG_BOX.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAO_List.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\Release\VOL_BG.g.cs
+D:\My Program\SAP WPF\SAP WPF\bin\Release\ActiproSoftware.Shared.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\bin\Release\ActiproSoftware.SyntaxEditor.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\bin\Release\ActiproSoftware.WinUICore.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP_WPF.lyrics_settings.resources
+D:\My Program\SAP WPF\SAP WPF\bin\Release\SAP WPF.exe.config
+D:\My Program\SAP WPF\SAP WPF\bin\Release\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\bin\Release\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP WPF_MarkupCompile.cache
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP WPF.g.resources
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\obj\Release\SAP WPF.pdb

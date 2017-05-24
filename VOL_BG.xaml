@@ -1,0 +1,33 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Classic" x:Name="VOL_BG1" x:Class="SAP_WPF.VOL_BG"
+        Title="VOL_BG" Height="182" Width="46" Background="Transparent" AllowsTransparency="True" WindowStyle="None" MouseLeave="VOL_BG1_MouseLeave" ResizeMode="NoResize">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="SAOSlider.xaml">
+                </ResourceDictionary>
+                <ResourceDictionary Source="SAOSlider.xaml">
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetProperty="Opacity" From=".0" To="1" Duration="0:0:.2"></DoubleAnimation>
+                    <DoubleAnimation Storyboard.TargetProperty="Height" From="0" To="182" Duration="0:0:.2"></DoubleAnimation>
+
+                </Storyboard>
+            </BeginStoryboard>
+
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        <Image Source="VOL_BG.png" Stretch="Fill"/>
+        <Slider x:Name="UI_SLIDER_VOL" HorizontalAlignment="Center" Style="{DynamicResource SAO_Vertical}"  VerticalAlignment="Top" Width="16" Maximum="100" Orientation="Vertical" Height="142" Margin="15,30,15,0" Thumb.DragCompleted="UI_SLIDER_VOL_Dragged" ValueChanged="UI_SLIDER_VOL_ValueChanged"/>
+
+    </Grid>
+</Window>

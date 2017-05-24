@@ -1,0 +1,105 @@
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.exe.config
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release\Resources\lang.en.resx
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MainWindow.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MSG_BOX.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_EXIT.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_List.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_STYLE.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_Widget.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAOSlider.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\VOL_BG.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MainWindow.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MSG_BOX.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_EXIT.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_List.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_Widget.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\VOL_BG.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\App.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF_MarkupCompile.cache
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.g.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Changelog.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.lyric_search.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Properties.Resources.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.SAO_SETFORMS.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Resources.lang.en.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.csproj.GenerateResource.Cache
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.csprojResolveAssemblyReference.cache
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.exe.config
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.exe
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.pdb
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\Resources\lang.en.resx
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.exe
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.pdb
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\en\SAP WPF.resources.dll
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\ActiproSoftware.Shared.Net20.dll
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\ActiproSoftware.SyntaxEditor.Net20.dll
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\ActiproSoftware.WinUICore.Net20.dll
+D:\その他\My Program\SAP WPF\SAP WPF\bin\x86\Release\Bass.Net.xml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.csprojResolveAssemblyReference.cache
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\MainWindow.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\MSG_BOX.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_EXIT.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_List.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_STYLE.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_Widget.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAOSlider.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\VOL_BG.baml
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\MainWindow.g.cs
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\MSG_BOX.g.cs
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_EXIT.g.cs
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_List.g.cs
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_Widget.g.cs
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\VOL_BG.g.cs
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\App.g.cs
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF_MarkupCompile.cache
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.g.resources
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Changelog.resources
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.lyric_search.resources
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Properties.Resources.resources
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.SAO_SETFORMS.resources
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Resources.lang.en.resources
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.csproj.GenerateResource.Cache
+D:\その他\My Program\SAP WPF\SAP WPF\obj\x86\Release\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\DestopLyrics.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release\DestopLyrics.g.cs
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.exe.config
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.exe
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.pdb
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Release\Resources\lang.en.resx
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.exe
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Release\SAP WPF.pdb
+E:\My Program\SAP WPF\SAP WPF\bin\x86\Release\en\SAP WPF.resources.dll
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.csprojResolveAssemblyReference.cache
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\DestopLyrics.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MainWindow.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MSG_BOX.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_EXIT.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_List.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_STYLE.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_Widget.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAOSlider.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\VOL_BG.baml
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\DestopLyrics.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MainWindow.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\MSG_BOX.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_EXIT.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_List.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAO_Widget.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\VOL_BG.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\App.g.cs
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF_MarkupCompile.cache
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.g.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Changelog.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Language.ZH_CN.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.lyric_search.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Properties.Resources.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.SAO_SETFORMS.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP_WPF.Resources.lang.en.resources
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\SAP WPF.csproj.GenerateResource.Cache
+E:\My Program\SAP WPF\SAP WPF\obj\x86\Release\en\SAP WPF.resources.dll

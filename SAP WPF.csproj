@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{577F9D15-E157-4963-9FBA-F5B381D15972}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SAP_WPF</RootNamespace>
+    <AssemblyName>SAP WPF</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>sao_ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SAP_WPF.App</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release x64|AnyCPU'">
+    <OutputPath>bin\Release x64\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release x64|x86'">
+    <OutputPath>bin\x86\Release x64\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release x64|x64'">
+    <OutputPath>bin\x64\Release x64\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ActiproSoftware.Shared.Net20, Version=1.0.102.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="ActiproSoftware.SyntaxEditor.Net20, Version=4.0.283.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86" />
+    <Reference Include="ActiproSoftware.WinUICore.Net20, Version=1.0.102.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Bass.Net, Version=2.4.10.3, Culture=neutral, PublicKeyToken=b7566c273e6ef480, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="PresentationFramework.Classic" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Changelog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Changelog.Designer.cs">
+      <DependentUpon>Changelog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DestopLRC.cs" />
+    <Compile Include="DestopLyrics.xaml.cs">
+      <DependentUpon>DestopLyrics.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EncodeHelper.cs" />
+    <Compile Include="INI.cs" />
+    <Compile Include="Language\ZH_CN.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ZH_CN.resx</DependentUpon>
+    </Compile>
+    <Compile Include="lyric_lrc.cs" />
+    <Compile Include="lyric_search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lyric_search.Designer.cs">
+      <DependentUpon>lyric_search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MSG_BOX.xaml.cs">
+      <DependentUpon>MSG_BOX.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="QianQianOnlineLyrics.cs" />
+    <Compile Include="readPlaylist.cs" />
+    <Compile Include="SAO_EXIT.xaml.cs">
+      <DependentUpon>SAO_EXIT.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SAO_List.xaml.cs">
+      <DependentUpon>SAO_List.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SAO_Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAO_Settings.Designer.cs">
+      <DependentUpon>SAO_Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAO_Widget.xaml.cs">
+      <DependentUpon>SAO_Widget.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VOL_BG.xaml.cs">
+      <DependentUpon>VOL_BG.xaml</DependentUpon>
+    </Compile>
+    <Page Include="DestopLyrics.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MSG_BOX.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SAO_EXIT.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SAO_List.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SAO_STYLE.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SAO_Widget.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SAOSlider.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VOL_BG.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Changelog.resx">
+      <DependentUpon>Changelog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language\ZH_CN.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ZH_CN.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lyric_search.resx">
+      <DependentUpon>lyric_search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\lang.en.resx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAO_Settings.resx">
+      <DependentUpon>SAO_Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <Resource Include="Font\EN.ttf" />
+    <Resource Include="Font\JP.ttf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="QQ截图20140308075629.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="alert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="add_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="iTunes_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logout_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sett-big_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alert.wav" />
+    <None Include="Resources\UI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ok_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cancel_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cancel_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ok_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="wetdget UI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="taskmgr_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="hp_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UI_PLAY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="BU_PAUSE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="BU_Skip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="BU_PREW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UI_VOL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SAO_BU_DSP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sound2_normal.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="catb_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="VOL_BG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="soundfont.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sequence.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="singleplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="listre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="radom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="lrc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="add_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sett-big_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="soundfont_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="taskmgr_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="lrc_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logout_hoverl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SAO_BU_DSP_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="hp_icon_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="taskmgr-copy_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="search_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="save_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sao_clearn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sao_ico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="taskmgr-copy_hoverl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="list_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="list_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\press.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

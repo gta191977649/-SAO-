@@ -1,0 +1,36 @@
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\SAP WPF.exe.config
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\Resources\lang.en.resx
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\ActiproSoftware.Shared.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\ActiproSoftware.SyntaxEditor.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\ActiproSoftware.WinUICore.Net20.dll
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\Bass.Net.dll
+D:\My Program\SAP WPF\SAP WPF\bin\x86\Release x64\Bass.Net.xml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\MainWindow.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\MSG_BOX.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAO_EXIT.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAO_List.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAO_STYLE.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAO_Widget.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAOSlider.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\VOL_BG.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\MainWindow.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\MSG_BOX.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAO_EXIT.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAO_List.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAO_Widget.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\VOL_BG.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\App.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP WPF_MarkupCompile.cache
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP WPF.g.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP_WPF.Changelog.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP_WPF.lyric_search.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP_WPF.Properties.Resources.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP_WPF.SAO_SETFORMS.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP_WPF.Resources.lang.en.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP WPF.csproj.GenerateResource.Cache
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\obj\x86\Release x64\SAP WPF.pdb

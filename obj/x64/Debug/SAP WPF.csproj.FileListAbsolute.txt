@@ -1,0 +1,33 @@
+D:\My Program\SAP WPF\SAP WPF\bin\x64\Debug\SAP WPF.exe.config
+D:\My Program\SAP WPF\SAP WPF\bin\x64\Debug\Resources\lang.en.resx
+D:\My Program\SAP WPF\SAP WPF\bin\x64\Debug\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\bin\x64\Debug\SAP WPF.pdb
+D:\My Program\SAP WPF\SAP WPF\bin\x64\Debug\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\bin\x64\Debug\Bass.Net.dll
+D:\My Program\SAP WPF\SAP WPF\bin\x64\Debug\Bass.Net.xml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\MainWindow.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\MSG_BOX.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAO_EXIT.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAO_List.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAO_STYLE.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAO_Widget.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAOSlider.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\VOL_BG.baml
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\MainWindow.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\MSG_BOX.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAO_EXIT.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAO_List.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAO_Widget.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\VOL_BG.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\App.g.cs
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP WPF_MarkupCompile.cache
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP WPF.g.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP_WPF.Changelog.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP_WPF.lyric_search.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP_WPF.Properties.Resources.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP_WPF.SAO_SETFORMS.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP_WPF.Resources.lang.en.resources
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP WPF.csproj.GenerateResource.Cache
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\en\SAP WPF.resources.dll
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP WPF.exe
+D:\My Program\SAP WPF\SAP WPF\obj\x64\Debug\SAP WPF.pdb
